@@ -21,6 +21,20 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
+		63051A881C85491D00F82881 /* ProximaNovaBlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A7A1C85491D00F82881 /* ProximaNovaBlackItalic.otf */; };
+		63051A891C85491D00F82881 /* ProximaNovaThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A7B1C85491D00F82881 /* ProximaNovaThinItalic.otf */; };
+		63051A8A1C85491D00F82881 /* ProximaNovaLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A7C1C85491D00F82881 /* ProximaNovaLightItalic.otf */; };
+		63051A8B1C85491D00F82881 /* ProximaNovaBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A7D1C85491D00F82881 /* ProximaNovaBoldItalic.otf */; };
+		63051A8C1C85491D00F82881 /* ProximaNovaBlack.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A7E1C85491D00F82881 /* ProximaNovaBlack.otf */; };
+		63051A8D1C85491D00F82881 /* ProximaNovaSemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A7F1C85491D00F82881 /* ProximaNovaSemiboldItalic.otf */; };
+		63051A8E1C85491D00F82881 /* ProximaNovaRegular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A801C85491D00F82881 /* ProximaNovaRegular.otf */; };
+		63051A8F1C85491D00F82881 /* ProximaNovaExtraboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A811C85491D00F82881 /* ProximaNovaExtraboldItalic.otf */; };
+		63051A901C85491D00F82881 /* ProximaNovaSemibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A821C85491D00F82881 /* ProximaNovaSemibold.otf */; };
+		63051A911C85491D00F82881 /* ProximaNovaBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A831C85491D00F82881 /* ProximaNovaBold.otf */; };
+		63051A921C85491D00F82881 /* ProximaNovaRegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A841C85491D00F82881 /* ProximaNovaRegularItalic.otf */; };
+		63051A931C85491D00F82881 /* ProximaNovaExtrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A851C85491D00F82881 /* ProximaNovaExtrabold.otf */; };
+		63051A941C85491D00F82881 /* ProximaNovaLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A861C85491D00F82881 /* ProximaNovaLight.otf */; };
+		63051A951C85491D00F82881 /* ProximaNovaThin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63051A871C85491D00F82881 /* ProximaNovaThin.otf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 /* End PBXBuildFile section */
 
@@ -105,17 +119,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = main.jsbundle; path = main.jsbundle; sourceTree = "<group>"; };
-		00C302A71ABCB8CE00DB3ED1 /* RCTActionSheet.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTActionSheet.xcodeproj; path = ../node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheet.xcodeproj; sourceTree = "<group>"; };
-		00C302B51ABCB90400DB3ED1 /* RCTGeolocation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTGeolocation.xcodeproj; path = ../node_modules/react-native/Libraries/Geolocation/RCTGeolocation.xcodeproj; sourceTree = "<group>"; };
-		00C302BB1ABCB91800DB3ED1 /* RCTImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTImage.xcodeproj; path = ../node_modules/react-native/Libraries/Image/RCTImage.xcodeproj; sourceTree = "<group>"; };
-		00C302D31ABCB9D200DB3ED1 /* RCTNetwork.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTNetwork.xcodeproj; path = ../node_modules/react-native/Libraries/Network/RCTNetwork.xcodeproj; sourceTree = "<group>"; };
-		00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTVibration.xcodeproj; path = ../node_modules/react-native/Libraries/Vibration/RCTVibration.xcodeproj; sourceTree = "<group>"; };
+		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
+		00C302A71ABCB8CE00DB3ED1 /* RCTActionSheet.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTActionSheet.xcodeproj; path = "../node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheet.xcodeproj"; sourceTree = "<group>"; };
+		00C302B51ABCB90400DB3ED1 /* RCTGeolocation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTGeolocation.xcodeproj; path = "../node_modules/react-native/Libraries/Geolocation/RCTGeolocation.xcodeproj"; sourceTree = "<group>"; };
+		00C302BB1ABCB91800DB3ED1 /* RCTImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTImage.xcodeproj; path = "../node_modules/react-native/Libraries/Image/RCTImage.xcodeproj"; sourceTree = "<group>"; };
+		00C302D31ABCB9D200DB3ED1 /* RCTNetwork.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTNetwork.xcodeproj; path = "../node_modules/react-native/Libraries/Network/RCTNetwork.xcodeproj"; sourceTree = "<group>"; };
+		00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTVibration.xcodeproj; path = "../node_modules/react-native/Libraries/Vibration/RCTVibration.xcodeproj"; sourceTree = "<group>"; };
 		00E356EE1AD99517003FC87E /* inoroutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = inoroutTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* inoroutTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = inoroutTests.m; sourceTree = "<group>"; };
-		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = ../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj; sourceTree = "<group>"; };
-		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = ../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj; sourceTree = "<group>"; };
+		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
+		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* inorout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = inorout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = inorout/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = inorout/AppDelegate.m; sourceTree = "<group>"; };
@@ -123,9 +137,23 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = inorout/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = inorout/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = inorout/main.m; sourceTree = "<group>"; };
-		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = ../node_modules/react-native/React/React.xcodeproj; sourceTree = "<group>"; };
-		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = ../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj; sourceTree = "<group>"; };
-		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = ../node_modules/react-native/Libraries/Text/RCTText.xcodeproj; sourceTree = "<group>"; };
+		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
+		63051A7A1C85491D00F82881 /* ProximaNovaBlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaBlackItalic.otf; sourceTree = "<group>"; };
+		63051A7B1C85491D00F82881 /* ProximaNovaThinItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaThinItalic.otf; sourceTree = "<group>"; };
+		63051A7C1C85491D00F82881 /* ProximaNovaLightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaLightItalic.otf; sourceTree = "<group>"; };
+		63051A7D1C85491D00F82881 /* ProximaNovaBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaBoldItalic.otf; sourceTree = "<group>"; };
+		63051A7E1C85491D00F82881 /* ProximaNovaBlack.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaBlack.otf; sourceTree = "<group>"; };
+		63051A7F1C85491D00F82881 /* ProximaNovaSemiboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaSemiboldItalic.otf; sourceTree = "<group>"; };
+		63051A801C85491D00F82881 /* ProximaNovaRegular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaRegular.otf; sourceTree = "<group>"; };
+		63051A811C85491D00F82881 /* ProximaNovaExtraboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaExtraboldItalic.otf; sourceTree = "<group>"; };
+		63051A821C85491D00F82881 /* ProximaNovaSemibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaSemibold.otf; sourceTree = "<group>"; };
+		63051A831C85491D00F82881 /* ProximaNovaBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaBold.otf; sourceTree = "<group>"; };
+		63051A841C85491D00F82881 /* ProximaNovaRegularItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaRegularItalic.otf; sourceTree = "<group>"; };
+		63051A851C85491D00F82881 /* ProximaNovaExtrabold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaExtrabold.otf; sourceTree = "<group>"; };
+		63051A861C85491D00F82881 /* ProximaNovaLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaLight.otf; sourceTree = "<group>"; };
+		63051A871C85491D00F82881 /* ProximaNovaThin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaThin.otf; sourceTree = "<group>"; };
+		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
+		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -251,6 +279,27 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		63051A791C8548E100F82881 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				63051A7A1C85491D00F82881 /* ProximaNovaBlackItalic.otf */,
+				63051A7B1C85491D00F82881 /* ProximaNovaThinItalic.otf */,
+				63051A7C1C85491D00F82881 /* ProximaNovaLightItalic.otf */,
+				63051A7D1C85491D00F82881 /* ProximaNovaBoldItalic.otf */,
+				63051A7E1C85491D00F82881 /* ProximaNovaBlack.otf */,
+				63051A7F1C85491D00F82881 /* ProximaNovaSemiboldItalic.otf */,
+				63051A801C85491D00F82881 /* ProximaNovaRegular.otf */,
+				63051A811C85491D00F82881 /* ProximaNovaExtraboldItalic.otf */,
+				63051A821C85491D00F82881 /* ProximaNovaSemibold.otf */,
+				63051A831C85491D00F82881 /* ProximaNovaBold.otf */,
+				63051A841C85491D00F82881 /* ProximaNovaRegularItalic.otf */,
+				63051A851C85491D00F82881 /* ProximaNovaExtrabold.otf */,
+				63051A861C85491D00F82881 /* ProximaNovaLight.otf */,
+				63051A871C85491D00F82881 /* ProximaNovaThin.otf */,
+			);
+			name = resources;
+			sourceTree = "<group>";
+		};
 		78C398B11ACF4ADC00677621 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -287,6 +336,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				63051A791C8548E100F82881 /* resources */,
 				13B07FAE1A68108700A75B9A /* inorout */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* inoroutTests */,
@@ -505,8 +555,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63051A921C85491D00F82881 /* ProximaNovaRegularItalic.otf in Resources */,
+				63051A951C85491D00F82881 /* ProximaNovaThin.otf in Resources */,
+				63051A941C85491D00F82881 /* ProximaNovaLight.otf in Resources */,
+				63051A8C1C85491D00F82881 /* ProximaNovaBlack.otf in Resources */,
+				63051A881C85491D00F82881 /* ProximaNovaBlackItalic.otf in Resources */,
+				63051A8F1C85491D00F82881 /* ProximaNovaExtraboldItalic.otf in Resources */,
+				63051A911C85491D00F82881 /* ProximaNovaBold.otf in Resources */,
+				63051A891C85491D00F82881 /* ProximaNovaThinItalic.otf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				63051A8A1C85491D00F82881 /* ProximaNovaLightItalic.otf in Resources */,
+				63051A8D1C85491D00F82881 /* ProximaNovaSemiboldItalic.otf in Resources */,
+				63051A901C85491D00F82881 /* ProximaNovaSemibold.otf in Resources */,
+				63051A931C85491D00F82881 /* ProximaNovaExtrabold.otf in Resources */,
+				63051A8E1C85491D00F82881 /* ProximaNovaRegular.otf in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				63051A8B1C85491D00F82881 /* ProximaNovaBoldItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,7 +590,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/packager/react-native-xcode.sh";
-			showEnvVarsInLog = 1;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -618,7 +681,7 @@
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"$(SRCROOT)/../node_modules/react-native/React/**",
 				);
-				INFOPLIST_FILE = "inorout/Info.plist";
+				INFOPLIST_FILE = inorout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = inorout;
@@ -634,7 +697,7 @@
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
 					"$(SRCROOT)/../node_modules/react-native/React/**",
 				);
-				INFOPLIST_FILE = "inorout/Info.plist";
+				INFOPLIST_FILE = inorout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = inorout;
